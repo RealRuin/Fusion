@@ -1,5 +1,18 @@
 # Fusion
-A client-sided GUI for Roblox. 
+A client-sided GUI for Roblox.
+
+## Update v0.1
+```
++ Infinite Yield
++ Dex++
++ Set Health to 0
++ Teleport To FPDH
++ UseJumpPower
++ WalkSpeed
++ JumpPower
++ JumpHeight
++ Unload UI
+```
 
 ## Announcement
 This is kind like a sequel to Ruined, but like this time I sort of know what I'm doing. It's still going to be absolute dogshit but it won't have 22 errors that I was unaware of. Working on v0.1 rn.
