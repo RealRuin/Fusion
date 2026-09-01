@@ -1,8 +1,23 @@
 # Fusion
 A client-sided GUI for Roblox.
 
-## Update v0.1
+## Update v0.2
+```markdown
++ Animate
++ HipHeight
++ MaxSlopeAngle
++ Ambient
++ GlobalShadows
++ PrioritizeLightingQuality
++ Brightness
++ FieldOfView
++ CameraType
++ Pattern Color
+* If script is executed again while the window is already open, it doesn't open a new window. This is to prevent errors.
 ```
+
+## Update v0.1
+```markdown
 + Infinite Yield
 + Dex++
 + Set Health to 0
