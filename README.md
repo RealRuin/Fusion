@@ -1,5 +1,8 @@
 # Fusion
 A client-sided GUI for Roblox.
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RealRuin/Fusion/refs/heads/main/Fusion.v0.2.lua"))()
+```
 
 ## Update v0.2
 ```markdown
