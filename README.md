@@ -13,7 +13,7 @@ A client-sided GUI for Roblox.
 + FieldOfView
 + CameraType
 + Pattern Color
-* If script is executed again while the window is already open, it doesn't open a new window. This is to prevent errors.
+* Prevented two windows being open at the same time
 ```
 
 ## Update v0.1
